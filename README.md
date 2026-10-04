@@ -135,6 +135,6 @@ The final dashboard contains four analytical pages:
 
 - [Kaggle Dataset](https://www.kaggle.com/datasets/orxansuleymanov/baku-publick-transport-files)
 - [Kaggle Notebook](https://www.kaggle.com/code/orxansuleymanov/baku-public-transport-intelligence/edit)
-- [LinkedIn Case Study](https://www.linkedin.com/posts/xiiidelta_xiiidelta-datascience-transportanalytics-activity-7512578283734118400-EQCk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnEo4cBum0enaGAuG6_VnioLhFaXT3jPjg)
+- [LinkedIn Case Study](https://www.linkedin.com/posts/xiiidelta_xiiidelta-datascience-transportanalytics-activity-7512583162594676736-eLil?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnEo4cBum0enaGAuG6_VnioLhFaXT3jPjg)
 - [Upwork Portfolio](https://www.upwork.com/freelancers/~01b5e3506436f6d4b1)
 
